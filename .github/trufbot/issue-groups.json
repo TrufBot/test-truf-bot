@@ -1,0 +1,12 @@
+[
+  {
+    "pretty": "Known Issues",
+    "url": "known-issues",
+    "groups": [
+      {
+        "name": "Top Priority",
+        "labelGroups": ["bug"]
+      }
+    ]
+  }
+]
